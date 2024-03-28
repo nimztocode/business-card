@@ -1,0 +1,21 @@
+body{
+    margin:20px;
+    font-family: futura;
+}
+img{
+    width:200px;
+    border-radius: 100%;
+}
+.card{
+    width:400px;
+    display:flex;
+    justify-content: space-around;
+    text-align: center;
+    margin:0 auto;
+    padding:20px;
+    color: #fefae0;
+    background: #283618;
+    border-radius: 10px;
+    border-bottom: 6px solid #bc6c25;
+   
+}
